@@ -1,0 +1,26 @@
+{
+  "name": "Assetize Token List",
+  "logoURI": "https://assetize.app/logo.png",
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "Token utilitas jaringan"
+    }
+  },
+  "timestamp": "2025-07-20T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "GMEMYnrPjpsrREV89dZj3YEhATkbcVfT3SnK5RgeNwf",
+      "symbol": "KOSZI",
+      "name": "KOSZI Token",
+      "decimals": 9,
+      "logoURI": "https://github.com/assetize-app/token-logo/blob/main/KOSZI.png?raw=true",
+      "tags": ["utility-token"],
+      "extensions": {
+        "website": "https://assetize.fi",
+        "description": "Tokenized Property"
+      }
+    }
+  ]
+}
