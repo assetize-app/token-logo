@@ -1,0 +1,25 @@
+{
+  "name": "KOSZI Token",
+  "symbol": "KOSZI",
+  "description": "This token represents fractional ownership of the premium rental properties in Indonesia.",
+  "image": "logo.png",
+  "attributes": [
+    {
+      "trait_type": "Asset Class",
+      "value": "Property"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Indonesia"
+    },
+    
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
